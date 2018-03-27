@@ -1,0 +1,13 @@
+{
+  "name": "myip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "myip": "./index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.1.2",
+    "prettyjson": "^1.2.1"
+  }
+}
